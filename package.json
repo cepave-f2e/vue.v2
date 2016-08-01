@@ -1,0 +1,23 @@
+{
+  "name": "vue.v2",
+  "version": "1.0.0",
+  "description": "vne@next branch for 2.0 usage",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cepave-f2e/vue.v2.git"
+  },
+  "keywords": [],
+  "author": "Cepave F2E Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cepave-f2e/vue.v2/issues"
+  },
+  "homepage": "https://github.com/cepave-f2e/vue.v2#readme",
+  "dependencies": {
+    "vue": "^2.0.0-beta.6"
+  }
+}
