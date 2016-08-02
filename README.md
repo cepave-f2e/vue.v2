@@ -9,7 +9,7 @@
 ## Install
 
 ```sh
-npm install github:cepave-f2e/vue.v2
+npm install --save github:cepave-f2e/vue.v2
 ```
 
 
