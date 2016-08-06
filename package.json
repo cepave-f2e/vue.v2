@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/cepave-f2e/vue.v2#readme",
   "dependencies": {
-    "vue": "^2.0.0-beta.6"
+    "vue": "^2.0.0-beta.7"
   }
 }
